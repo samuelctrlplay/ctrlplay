@@ -6,3 +6,6 @@ def subtrair(a, b):
 
 def multiplicar(a, b):
     return a * b
+
+def divirdir(a, b):
+    return a / b if b else 0
